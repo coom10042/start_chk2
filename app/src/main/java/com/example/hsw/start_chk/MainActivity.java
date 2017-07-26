@@ -29,9 +29,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private int data = 1234;
-    private String name ="abc45";
-    private String name2 = "def45";
-    private String test1 = "test1";
+    private String name ="12";
+    private String name2 = "34";
+    private String test1 = "56";
 
 
     @Override
