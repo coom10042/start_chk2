@@ -29,8 +29,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private int data = 1234;
-    private String name ="abc";
-    private String name2 = "def";
+    private String name ="def";
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
