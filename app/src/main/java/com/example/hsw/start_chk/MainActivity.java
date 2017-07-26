@@ -30,8 +30,8 @@ public class MainActivity extends AppCompatActivity {
 
     private int data = 1234;
 
-    private String name ="abc";
-    private String name2 = "def";
+    private String name ="abc45";
+    private String name2 = "def45";
 
 
     @Override
