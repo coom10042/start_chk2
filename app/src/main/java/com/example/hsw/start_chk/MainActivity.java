@@ -29,7 +29,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private int data = 1234;
+<<<<<<< HEAD
+    private String name ="abc";
+    private String name2 = "def";
+=======
     private String name ="def";
+>>>>>>> test1/master
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
